@@ -1,0 +1,26 @@
+No Title 
+https://fts.capgemini.com/private/26127025943480/Azure-LabBook.pdf 
+https://fts.capgemini.com/private/26127025943480/Azurefor.NETDevelopers.pdf
+
+
+https://fts.capgemini.com/private/26127025943480/IaaS-VM-Container-Docker-Part-1.mp4
+https://fts.capgemini.com/private/26127025943480/IaaS-VM-Container-Docker-Part-2.mp4
+https://fts.capgemini.com/private/40488856562128/AzureContainerInstance-Demo.mp4
+https://fts.capgemini.com/private/40488856562128/AzureContainerRegistry-Demo.mp4
+https://fts.capgemini.com/private/40488856562128/CreatingandDeletingResourceGroup.mp4
+https://fts.capgemini.com/private/40488856562128/LinuxVM-Demo.mp4
+https://fts.capgemini.com/private/40488856562128/VirtualNetwork-Demo.mp4
+https://fts.capgemini.com/private/40488856562128/WindowsVM-Demo.mp4
+
+
+Without Voice
+--------------
+https://fts.capgemini.com/private/15606006196967/Api-CORS-Demo.mp4
+https://fts.capgemini.com/private/15606006196967/ASP.NETWithSQLDB-Demo.mp4
+https://fts.capgemini.com/private/15606006196967/Connect-Azure-SQL-DB-Using-SSMS-Demo.mp4
+https://fts.capgemini.com/private/15606006196967/Connect-Azure-VS-Demo.mp4
+https://fts.capgemini.com/private/15606006196967/Create-Azure-SQL-database-Demo.mp4
+https://fts.capgemini.com/private/15606006196967/CustomDomain-Demo.mp4
+https://fts.capgemini.com/private/15606006196967/WebApp-Demo.mp4
+https://fts.capgemini.com/private/15606006196967/windows-01.mp4 
+ 

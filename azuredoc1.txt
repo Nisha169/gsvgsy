@@ -1,0 +1,35 @@
+https://azure.microsoft.com/en-us/ - if dont have subscription
+
+availability zones- one or more data center with independent power, cooling=> replicating data across multiple zone incase of disaster
+
+region-
+
+
+Data center
+availability zone
+Region
+
+region=>AZ=> Data center
+
+https://fts.capgemini.com/private/13879343809872/DevelopingMicrosoftAzureSolutions...-06August201909.43.34.mp4 link valid until 2019-08-13 9:00 UTC (SSO protected)
+https://fts.capgemini.com/private/13879343809872/DevelopingMicrosoftAzureSolutions...-06August201912.06.54.mp4 link valid until 2019-08-13 9:00 UTC (SSO protected) 
+https://fts.capgemini.com/private/13879343809872/DevelopingMicrosoftAzureSolutions...-06August201909.43.34.mp4 link valid until 2019-08-13 9:00 UTC (SSO protected)
+https://fts.capgemini.com/private/13879343809872/DevelopingMicrosoftAzureSolutions...-06August201912.06.54.mp4 link valid until 2019-08-13 9:00 UTC (SSO protected) 
+Use these links for Chapter 1 (Cloud Fundamentals) and Chapter 2 (Azure Fundamentals) recordings
+
+
+https://fts.capgemini.com/private/13879343809872/DevelopingMicrosoftAzureSolutions...-06August201909.43.34.mp4
+ 
+
+git
+Visual studio code editor
+azure subscription
+github account
+
+1. Creatred empty html5 app on azure
+2. we have installed git. Configured
+
+allow users to store and use keys in azure env
+using key vault keys and secrets can be encrypted and protected
+
+

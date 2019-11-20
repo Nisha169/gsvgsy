@@ -1,0 +1,32 @@
+sync of user photo from vNext to vcurrent
+Download image to local folder
+retrieving image from local & upload to vCurrent
+
+
+User email as input=> copy images=> syc to vCurrent
+vnext to search farm
+copy image from vnext
+Query user profile=>Download images=> same anem
+uploading in search farm
+Fullsyncmode
+INcr=>query user profile=>get changes=> how images upadtes=>last processed
+change token from last processed
+
+
+upload the image in library=> set as profile pic=>
+user photo temp
+Assistant upload
+download img from photo temp
+
+
+assistent 
+data location of the proceesed user=>
+based on gwo location mysite url changed
+
+personalisesite hosturl=>client context
+same user on multiple location images
+
+
+can u just give brief on photosync first how it works=> 
+what are the requirements for that=>
+i want my image to get syc so wat steps we need ti check 
